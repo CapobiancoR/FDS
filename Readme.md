@@ -70,3 +70,9 @@ FP_FDS/ (or however you prefer)
 - - /test
 - - - /*.JPEG
 	
+
+Don't worry, when you download the dataset is already in this structure.
+
+## Dataset
+
+Dataset download: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data
