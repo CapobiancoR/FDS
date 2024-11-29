@@ -41,7 +41,7 @@ It's all just 1 implementation, starts replicating the model, train with the sam
 - Augment data ( if needed )
 ## Step 2: Model Selection
 - pre-trained CNN model or Custom CNN arch ( if needed) 
-## Step 3:Model Training
+## Step 3:Model Training (hyperparameters)
 - Optimize hyperparameters and apply suitable optimizer and loss function
 - hyperparameter search 
 ## Step 4:  Model Evaluation
