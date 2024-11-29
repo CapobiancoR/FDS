@@ -60,13 +60,13 @@ Git desktop is giving errors with the the 3Gb dataset (also having a .gitignore)
 Folder structure:
 
 FP_FDS/ (or however you prefer)
-	/FDS (github repo)
-	/Datset
-		/New Plant Diseases Dataset(Augmented)
-			/train
-				/[jpeg fiolders]
-			/valid
-				/[jpeg fiolders]
-		/test
-			/*.JPEG
+- /FDS (github repo)
+- /Dataset
+- - /New Plant Diseases Dataset(Augmented)
+- - - /train
+- - - - /[jpeg fiolders]
+- - - /valid
+- - - - /[jpeg fiolders]
+- - /test
+- - - /*.JPEG
 	
